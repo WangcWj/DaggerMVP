@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWork\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_1b411a151276117401e78aba4a45cb0a38b4b62c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.3.1_70770a872954514661e6a5e3de535d8a1d1ced7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.3.1_2e8346fb9c49ba0b39d093770b4f6623d48a6913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.3.1_6276176b41eeeb3fc71052c30cd8991123a9b566.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.3.1_aefa0610d4c4c1d9fd7b7e00c224fb1dde15950b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.3.1_c5ff56462c7e787565e1455e4fd419173035abdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.dagger\dagger\2.2\febfd2d9e89bde4c3a9723bcd9522cba96bddac7\dagger-2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="febfd2d9e89bde4c3a9723bcd9522cba96bddac7">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\dagger-2.2_5fa7387893d364282fa6f89b20e5d8b41d49d47a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.3.1_237627d161bee0d49ddb6fe8f35cecbd58ad5c6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\javax.inject-1_273da2ba53aedc2691b5c6c4485ebe7b12b6e634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.3.1_71996bd965470a258a00e769ec4cb76a18634c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.3.1_eb00d0748dfcce2850ec21f101c2670f9b8d64c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidWorkSpace\Dagger2.0MVP\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.3.1_956dd581abba20a232e60d9b0083f48c54f9b8b5.jar" />
+    </item>
+
+</items>
